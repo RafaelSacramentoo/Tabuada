@@ -1,2 +1,2 @@
 # Tabuada
-Tabuada feita em python 
+Tabuada de multiplicação feita em python 
